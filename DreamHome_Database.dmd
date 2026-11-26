@@ -1,0 +1,13 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="DreamHome_Database" id="BC96EC28-F4EE-332B-2965-5995EB3818A7" version="3.5">
+<createdBy>sasikirana</createdBy>
+<createdTime>2026-11-26 03:53:25 UTC</createdTime>
+<ownerDesignName>DreamHome_Database</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>BC96EC28-F4EE-332B-2965-5995EB3818A7</designId>
+<usedDesignStorageDescriptors>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="E39A9B48-0901-C364-B3DA-17F9A4A94CE8">
+<designStoragePath>C:\DreamHome_Rental_Database_DDL</designStoragePath>
+</designDescr>
+</usedDesignStorageDescriptors>
+</OSDM_Design>
